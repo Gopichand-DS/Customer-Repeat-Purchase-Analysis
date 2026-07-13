@@ -476,7 +476,7 @@ Retail-Sales-Analysis/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/<your-username>/Retail-Sales-Analysis.git
+git clone https://github.com/<Gopichand-DS>/-Customer-Repeat-Purchase-Analysis.git
 ```
 
 2. Install the required libraries.
