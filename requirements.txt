@@ -1,0 +1,6 @@
+Python 
+pandas
+numpy
+matplotlib
+jupyter
+correlations
